@@ -11,3 +11,6 @@
 - step5. Run solution "02-SkeletonAnimation": right click solution name and click "Set as Startup Project",then 
          click button "run"
 ![image](https://user-images.githubusercontent.com/21232983/76735667-5c593580-67a0-11ea-945d-72fcc8c35482.png)
+
+- Result:
+![https://github.com/GuDuJian-J-Zhang/ComputacionGraficaAvanzada/blob/master/ttt.gif](https://github.com/GuDuJian-J-Zhang/ComputacionGraficaAvanzada/blob/master/ttt.gif)
